@@ -132,7 +132,7 @@ svc --model-path <model-path> source.wav
 
 #### Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/34j/so-vits-svc-fork/blob/main/notebooks/so-vits-svc-fork-4.0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Blz-Galaxy/so-vits-svc-fork/blob/main/notebooks/so-vits-svc-fork-4.0.ipynb)
 
 #### 本地
 
